@@ -1,0 +1,6 @@
+com\he\repository\NewsRepository.class
+com\he\Application.class
+com\he\config\BatchProcessConfig.class
+com\he\data\News.class
+com\he\config\BatchProcessConfig$1.class
+com\he\NewsItemProcessor.class

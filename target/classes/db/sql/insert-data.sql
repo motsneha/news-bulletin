@@ -1,0 +1,16 @@
+--private int id;
+--      private String newsHeadline;
+--      private String newsType;
+--      private String url;
+--      private String source;
+--      private Date dateOfHappening;
+--target/classes/db/sql/news_bulletin666200b.csv
+--CREATE TABLE NEWS(
+--    id INT PRIMARY KEY,
+--    newsHeadline VARCHAR(255),
+--    url VARCHAR(255),
+--    source VARCHAR(200),
+--    newsType VARCHAR(1),
+--    link VARCHAR(100),
+--    dateOfHappening VARCHAR)
+--AS SELECT * FROM CSVREAD('D:\\news-bulletin\\src\\main\\resources\\db\\sql\\news_bulletin666200b.csv');
